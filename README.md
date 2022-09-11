@@ -24,7 +24,7 @@
 
 - Compiler
 
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/> </a>
+<a href="https://swc.rs/" target="_blank" rel="noreferrer"> <img src="https://swc.rs/logo.png" alt="javascript" width="60" height="29"/> </a>
 
 - Database
 
@@ -38,25 +38,12 @@
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
 <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> </a>
 
-- Virtualization
-
-<a href="https://www.unraid.net/" target="_blank" rel="noreferrer"> <img src="https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg" alt="Unraid" width="50" height="40"/> </a>
-
-
-- Extras
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://fivem.net/" target="_blank" rel="noreferrer"> <img src="https://fivem.net/d1ab13c9bc4cab3e74318692cfabce48.webp" alt="fivem" width="40" height="40"/> </a>
-
 <br>
 
 - Currently Learning
 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a>
+<a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="svelte" width="32" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://swc.rs/" target="_blank" rel="noreferrer"> <img src="https://swc.rs/logo.png" alt="javascript" width="60" height="29"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://deno.land/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" alt="denojs" width="40" height="40"/> </a>
 
 <br>
