@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="./assets/logo-transparent.png" width="200"/></div>
+<p align="center"><img src="./assets/logo-transparent.png" width="200"/></div>
 
 # Hi, I'm Knobi 👋
 
