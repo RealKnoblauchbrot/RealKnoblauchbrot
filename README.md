@@ -9,6 +9,7 @@ I'm a trainee as information technology assistant and an aspiring software devel
 - Lua
 - HTML / CSS
 - JavaScript / TypeScript
+- Java
 - Visual Studio Code
 
 ## Projects and Interests 🚀
