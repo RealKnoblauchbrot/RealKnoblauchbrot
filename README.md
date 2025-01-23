@@ -14,7 +14,6 @@ I'm a trainee as information technology assistant and an aspiring software devel
 
 ## Projects and Interests 🚀
 
-- Working as a supporter and documentation maintainer of the popular role-playing gamemode ESX for FiveM.
 - I am currently learning React.
 - I love collaborating with other developers and exploring new ideas and challenges.
 
