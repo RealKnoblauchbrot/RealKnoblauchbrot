@@ -14,8 +14,7 @@ I'm a trainee as information technology assistant and an aspiring software devel
 
 ## Projects and Interests 🚀
 
-- I am currently learning React.
-- I love collaborating with other developers and exploring new ideas and challenges.
+- I am currently learning Flutter for Android and Desktop development.
 
 ## Contact Me 📫
 
